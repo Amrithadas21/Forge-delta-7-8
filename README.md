@@ -1,6 +1,7 @@
-# Forge-software-delta
+DELTA TEAM
 
- Raspberry Pi Stepper Motor & Camera Calibration Utilities
+DELTA -SOFTWARE:
+Raspberry Pi Stepper Motor & Camera Calibration Utilities
 
 This repository contains Python scripts and resources for stepper motor control using GPIO on Raspberry Pi, as well as a camera calibration and video preprocessing pipeline using OpenCV and the PiCamera2 module.
 
